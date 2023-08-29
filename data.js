@@ -300,6 +300,141 @@ const data = [
       "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
       "category": "kitchen",
       "shipping": true
+    },{
+      "id": "rectfNsySwAJeWDN2",
+      "name": "wooden table",
+      "price": 234999,
+      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325689/cassello%20jewelers/Cassello%20Jeweler/428FDE34-D152-4A29-9787-025A5707540B_ydpub8.jpg",
+      "featured": true,
+      "colors": [
+        "#ffb900",
+        "#ff0000"
+      ],
+      "company": "caressa",
+      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+      "category": "necklace",
+      "shipping": true
+  },
+    /// new
+    {
+      "id": "rectfNsySwAJeWDN2",
+      "name": "wooden table",
+      "price": 234999,
+      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325689/cassello%20jewelers/Cassello%20Jeweler/B9D15F87-DACF-47B5-AE78-D1A85B51B449_crzv6h.jpg",
+      "featured": true,
+      "colors": [
+        "#ffb900",
+        "#ff0000"
+      ],
+      "company": "caressa",
+      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+      "category": "necklace",
+      "shipping": true
+  },
+    {
+      "id": "rectfNsySwAJeWDN2",
+      "name": "wooden table",
+      "price": 234999,
+      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325681/cassello%20jewelers/Cassello%20Jeweler/AF573401-B41F-44D7-9919-0D0B1C3EAC9E_prtecq.jpg",
+      "featured": true,
+      "colors": [
+        "#ffb900",
+        "#ff0000"
+      ],
+      "company": "earrings",
+      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+      "category": "necklace",
+      "shipping": true
+    },
+    {
+      "id": "rectfNsySwAJeWDN2",
+      "name": "wooden table",
+      "price": 234999,
+      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325674/cassello%20jewelers/Cassello%20Jeweler/04F204AE-5B92-4FA7-B166-F146AC5382E9_jqd4un.jpg",
+      "featured": true,
+      "colors": [
+        "#ffb900",
+        "#ff0000"
+      ],
+      "company": "earrings",
+      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+      "category": "ring",
+      "shipping": true
+    },
+    {
+      "id": "rectfNsySwAJeWDN2",
+      "name": "wooden table",
+      "price": 234999,
+      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325672/cassello%20jewelers/Cassello%20Jeweler/9247F719-2618-4F79-946D-B3E39245B67A_p1agtr.jpg",
+      "featured": true,
+      "colors": [
+        "#ffb900",
+        "#ff0000"
+      ],
+      "company": "earrings",
+      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+      "category": "bracelet",
+      "shipping": true
+    },
+    {
+      "id": "rectfNsySwAJeWDN2",
+      "name": "wooden table",
+      "price": 234999,
+      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325670/cassello%20jewelers/Cassello%20Jeweler/CE17F6C5-C8A2-4093-B1D9-8886133098D7_onljql.jpg",
+      "featured": true,
+      "colors": [
+        "#ffb900",
+        "#ff0000"
+      ],
+      "company": "earrings",
+      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+      "category": "bracelet",
+      "shipping": true
+    },
+    {
+      "id": "rectfNsySwAJeWDN2",
+      "name": "wooden table",
+      "price": 234999,
+      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325666/cassello%20jewelers/Cassello%20Jeweler/4BD1EE62-CCE4-4DEF-98F8-8A845DCE3052_c59v7p.jpg",
+      "featured": true,
+      "colors": [
+        "#ffb900",
+        "#ff0000"
+      ],
+      "company": "earrings",
+      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+      "category": "bracelet",
+      "shipping": true
+    },
+    {
+      "id": "rectfNsySwAJeWDN2",
+      "name": "wooden table",
+      "price": 234999,
+      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325660/cassello%20jewelers/Cassello%20Jeweler/68665FA1-8E25-41E6-8E7D-820F1469E855_mzzuks.jpg",
+      "featured": true,
+      "colors": [
+        "#ffb900",
+        "#ff0000"
+      ],
+      "company": "earrings",
+      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+      "category": "bracelet",
+      "shipping": true
+    },
+    {
+      "id": "rectfNsySwAJeWDN2",
+      "name": "wooden table",
+      "price": 234999,
+      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325656/cassello%20jewelers/Cassello%20Jeweler/644F7EB0-A878-4294-ACD0-062F6125AF62_gzywhl.jpg",
+      "featured": true,
+      "colors": [
+        "#ffb900",
+        "#ff0000"
+      ],
+      "company": "necklace",
+      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+      "category": "bracelet",
+      "shipping": true
     }
   ]
 module.exports = data;
