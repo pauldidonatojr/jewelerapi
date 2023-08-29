@@ -275,9 +275,9 @@ const data = [
     },
     {
       "id": "recm7wC8TBVdU9oEL",
-      "name": "ruby ring",
+      "name": "wooden desk",
       "price": 40099,
-      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325645/cassello%20jewelers/Cassello%20Jeweler/DD936C8A-14E8-4AD4-B248-CE4D57F49A66_yrqwu0.jpg",
+      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1688843492/04-removebg-preview_kv6vdd.png",
       "colors": [
         "#0000ff",
         "#00ff00"
@@ -289,8 +289,8 @@ const data = [
     {
       "id": "rectfNsySwAJeWDN2",
       "name": "wooden table",
-      "price": 234999,
-      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1688843492/04-removebg-preview_kv6vdd.png",
+      "price": 1,
+      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325645/cassello%20jewelers/Cassello%20Jeweler/DD936C8A-14E8-4AD4-B248-CE4D57F49A66_yrqwu0.jpg",
       "featured": true,
       "colors": [
         "#ffb900",
@@ -303,7 +303,7 @@ const data = [
     },{
       "id": "rectfNsySwAJeWDN2",
       "name": "wooden table",
-      "price": 234999,
+      "price": 1,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325689/cassello%20jewelers/Cassello%20Jeweler/428FDE34-D152-4A29-9787-025A5707540B_ydpub8.jpg",
       "featured": true,
       "colors": [
@@ -319,7 +319,7 @@ const data = [
     {
       "id": "rectfNsySwAJeWDN2",
       "name": "wooden table",
-      "price": 234999,
+      "price": 1,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325689/cassello%20jewelers/Cassello%20Jeweler/B9D15F87-DACF-47B5-AE78-D1A85B51B449_crzv6h.jpg",
       "featured": true,
       "colors": [
@@ -334,7 +334,7 @@ const data = [
     {
       "id": "rectfNsySwAJeWDN2",
       "name": "wooden table",
-      "price": 234999,
+      "price": 1,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325681/cassello%20jewelers/Cassello%20Jeweler/AF573401-B41F-44D7-9919-0D0B1C3EAC9E_prtecq.jpg",
       "featured": true,
       "colors": [
@@ -424,14 +424,14 @@ const data = [
     {
       "id": "rectfNsySwAJeWDN2",
       "name": "wooden table",
-      "price": 234999,
+      "price": 1,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325656/cassello%20jewelers/Cassello%20Jeweler/644F7EB0-A878-4294-ACD0-062F6125AF62_gzywhl.jpg",
       "featured": true,
       "colors": [
         "#ffb900",
         "#ff0000"
       ],
-      "company": "necklace",
+      "company": "earrings",
       "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
       "category": "bracelet",
       "shipping": true
