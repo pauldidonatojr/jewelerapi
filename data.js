@@ -303,7 +303,7 @@ const data = [
     },{
       "id": "rectfNsySwAJeWDN2",
       "name": "wooden table",
-      "price": 1,
+      "price": 2,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325689/cassello%20jewelers/Cassello%20Jeweler/428FDE34-D152-4A29-9787-025A5707540B_ydpub8.jpg",
       "featured": true,
       "colors": [
@@ -319,7 +319,7 @@ const data = [
     {
       "id": "rectfNsySwAJeWDN2",
       "name": "wooden table",
-      "price": 1,
+      "price": 3,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325689/cassello%20jewelers/Cassello%20Jeweler/B9D15F87-DACF-47B5-AE78-D1A85B51B449_crzv6h.jpg",
       "featured": true,
       "colors": [
@@ -334,7 +334,7 @@ const data = [
     {
       "id": "rectfNsySwAJeWDN2",
       "name": "wooden table",
-      "price": 1,
+      "price": 4,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325681/cassello%20jewelers/Cassello%20Jeweler/AF573401-B41F-44D7-9919-0D0B1C3EAC9E_prtecq.jpg",
       "featured": true,
       "colors": [
@@ -349,7 +349,7 @@ const data = [
     {
       "id": "rectfNsySwAJeWDN2",
       "name": "wooden table",
-      "price": 234999,
+      "price": 5,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325674/cassello%20jewelers/Cassello%20Jeweler/04F204AE-5B92-4FA7-B166-F146AC5382E9_jqd4un.jpg",
       "featured": true,
       "colors": [
@@ -364,7 +364,7 @@ const data = [
     {
       "id": "rectfNsySwAJeWDN2",
       "name": "wooden table",
-      "price": 234999,
+      "price": 6,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325672/cassello%20jewelers/Cassello%20Jeweler/9247F719-2618-4F79-946D-B3E39245B67A_p1agtr.jpg",
       "featured": true,
       "colors": [
@@ -379,7 +379,7 @@ const data = [
     {
       "id": "rectfNsySwAJeWDN2",
       "name": "wooden table",
-      "price": 234999,
+      "price": 7,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325670/cassello%20jewelers/Cassello%20Jeweler/CE17F6C5-C8A2-4093-B1D9-8886133098D7_onljql.jpg",
       "featured": true,
       "colors": [
@@ -394,7 +394,7 @@ const data = [
     {
       "id": "rectfNsySwAJeWDN2",
       "name": "wooden table",
-      "price": 234999,
+      "price": 8,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325666/cassello%20jewelers/Cassello%20Jeweler/4BD1EE62-CCE4-4DEF-98F8-8A845DCE3052_c59v7p.jpg",
       "featured": true,
       "colors": [
@@ -409,7 +409,7 @@ const data = [
     {
       "id": "rectfNsySwAJeWDN2",
       "name": "wooden table",
-      "price": 234999,
+      "price": 9,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325660/cassello%20jewelers/Cassello%20Jeweler/68665FA1-8E25-41E6-8E7D-820F1469E855_mzzuks.jpg",
       "featured": true,
       "colors": [
@@ -424,7 +424,7 @@ const data = [
     {
       "id": "rectfNsySwAJeWDN2",
       "name": "wooden table",
-      "price": 1,
+      "price": 10,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325656/cassello%20jewelers/Cassello%20Jeweler/644F7EB0-A878-4294-ACD0-062F6125AF62_gzywhl.jpg",
       "featured": true,
       "colors": [
