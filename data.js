@@ -17,7 +17,7 @@ const data = [
     {
       "id": "recEHmzvupvT8ZONH",
       "name": "Citrine Crystal Earrings",
-      "price": 4500,
+      "price": 45000,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1688749973/D7DB699D-7095-407E-AD1E-4CABBBE15F26_rc7qci.jpg",
       "colors": [
         "#000",
