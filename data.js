@@ -42,8 +42,8 @@ const data = [
     },
     {
       "id": "recd1jIVIEChmiwhe",
-      "name": "armchair",
-      "price": 12599,
+      "name": "Lotopia Pendant",
+      "price": 33500,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1688749973/7B3F2244-E3E1-4C53-9FC4-61AA39F12F0D_ijahi5.jpg",
       "colors": [
         "#000",
@@ -51,7 +51,7 @@ const data = [
         "#0000ff"
       ],
       "company": "marcos",
-      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+      "description": "Lotopia italian designer swaski crystals",
       "category": "bedroom",
       "shipping": true
     },
@@ -210,8 +210,8 @@ const data = [
     },
     {
       "id": "recroK1VD8qVdMP5H",
-      "name": "suede armchair",
-      "price": 15999,
+      "name": "Biwa Rice Pearls",
+      "price": 11300,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1688753146/FC302798-975A-4335-9E6F-00110BB80CDD_cbwhwn.jpg",
       "colors": [
         "#ffb900"
