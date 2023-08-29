@@ -275,9 +275,9 @@ const data = [
     },
     {
       "id": "recm7wC8TBVdU9oEL",
-      "name": "wooden desk",
+      "name": "ruby ring",
       "price": 40099,
-      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1688843492/04-removebg-preview_kv6vdd.png",
+      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325645/cassello%20jewelers/Cassello%20Jeweler/DD936C8A-14E8-4AD4-B248-CE4D57F49A66_yrqwu0.jpg",
       "colors": [
         "#0000ff",
         "#00ff00"
