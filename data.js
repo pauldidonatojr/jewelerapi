@@ -288,8 +288,8 @@ const data = [
     },
     {
       "id": "rectfNsySwAJeWDN2",
-      "name": "wooden table",
-      "price": 1,
+      "name": "Sterling Silver 2CT Garnet & 0.20CT Diamond Ring",
+      "price": 85000,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325645/cassello%20jewelers/Cassello%20Jeweler/DD936C8A-14E8-4AD4-B248-CE4D57F49A66_yrqwu0.jpg",
       "featured": true,
       "colors": [
@@ -297,7 +297,7 @@ const data = [
         "#ff0000"
       ],
       "company": "caressa",
-      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+      "description": "Delve into the world of sheer elegance with this beautifully handcrafted ring. Set in pristine sterling silver, its deep red 2-carat garnet takes center stage, capturing attention with every gleam. To enhance its beauty, the garnet is accompanied by delicate diamonds, together weighing 0.20 carats. This exquisite combination showcases both sophistication and timeless charm, making it an ideal piece for any memorable occasion or as a treasured daily adornment.",
       "category": "bracelets",
       "shipping": true
     },{
