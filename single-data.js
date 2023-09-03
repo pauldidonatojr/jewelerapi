@@ -3255,13 +3255,13 @@ const data = [
           "#ffb900",
           "#ff0000"
         ],
-        "category": "kitchen",
+        "category": "rings",
         "images": [
           {
             "id": "attub6EG88kJKuYs8",
             "width": 1000,
             "height": 667,
-            "url": "https://www.course-api.com/images/store/product-22.jpeg",
+            "url": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325645/cassello%20jewelers/Cassello%20Jeweler/DD936C8A-14E8-4AD4-B248-CE4D57F49A66_yrqwu0.jpg",
             "filename": "product-4.jpeg",
             "size": 49641,
             "type": "image/jpeg",
@@ -3272,7 +3272,7 @@ const data = [
                 "height": 36
               },
               "large": {
-                "url": "https://www.course-api.com/images/store/product-22.jpeg",
+                "url": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325644/cassello%20jewelers/Cassello%20Jeweler/85921E0E-0DBA-4B23-B479-92CF18BA5E2D_a3zkgq.jpg",
                 "width": 768,
                 "height": 512
               },
@@ -3303,7 +3303,7 @@ const data = [
                 "height": 512
               },
               "full": {
-                "url": "https://www.course-api.com/images/store/extra-product-1.jpeg",
+                "url": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325645/cassello%20jewelers/Cassello%20Jeweler/DD936C8A-14E8-4AD4-B248-CE4D57F49A66_yrqwu0.jpg",
                 "width": 3000,
                 "height": 3000
               }
