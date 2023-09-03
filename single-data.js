@@ -3244,7 +3244,9 @@ const data = [
         "name": "wooden desk",
         "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
         "company": "ikea"
-      },
+  },
+
+
       {
         "id": "rectfNsySwAJeWDN2",
         "stock": 5,
@@ -3267,7 +3269,7 @@ const data = [
             "type": "image/jpeg",
             "thumbnails": {
               "small": {
-                "url": "https://www.course-api.com/images/store/product-22.jpeg",
+                "url": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325644/cassello%20jewelers/Cassello%20Jeweler/ADC00B5E-D80E-443A-90A9-DB1ECD757928_daabpc.jpg",
                 "width": 54,
                 "height": 36
               },
@@ -3277,7 +3279,7 @@ const data = [
                 "height": 512
               },
               "full": {
-                "url": "https://www.course-api.com/images/store/product-22.jpeg",
+                "url": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325644/cassello%20jewelers/Cassello%20Jeweler/5E1C32A8-E954-44C9-8102-21324AF0BD3B_rflv9n.jpg",
                 "width": 3000,
                 "height": 3000
               }
@@ -3287,23 +3289,23 @@ const data = [
             "id": "attaeT2Dex98o2jfW",
             "width": 1000,
             "height": 667,
-            "url": "https://www.course-api.com/images/store/extra-product-1.jpeg",
+            "url": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325644/cassello%20jewelers/Cassello%20Jeweler/85921E0E-0DBA-4B23-B479-92CF18BA5E2D_a3zkgq.jpg",
             "filename": "extra-1.jpeg",
             "size": 102108,
             "type": "image/jpeg",
             "thumbnails": {
               "small": {
-                "url": "https://www.course-api.com/images/store/extra-product-1.jpeg",
+                "url": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325644/cassello%20jewelers/Cassello%20Jeweler/5E1C32A8-E954-44C9-8102-21324AF0BD3B_rflv9n.jpg",
                 "width": 54,
                 "height": 36
               },
               "large": {
-                "url": "https://www.course-api.com/images/store/extra-product-1.jpeg",
+                "url": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325644/cassello%20jewelers/Cassello%20Jeweler/ADC00B5E-D80E-443A-90A9-DB1ECD757928_daabpc.jpg",
                 "width": 768,
                 "height": 512
               },
               "full": {
-                "url": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325645/cassello%20jewelers/Cassello%20Jeweler/DD936C8A-14E8-4AD4-B248-CE4D57F49A66_yrqwu0.jpg",
+                "url": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325644/cassello%20jewelers/Cassello%20Jeweler/85921E0E-0DBA-4B23-B479-92CF18BA5E2D_a3zkgq.jpg",
                 "width": 3000,
                 "height": 3000
               }
@@ -3390,10 +3392,11 @@ const data = [
         ],
         "reviews": 35,
         "stars": 3.4,
-        "name": "wooden table",
-        "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+        "name": "Sterling Silver 2CT Garnet & 0.20CT Diamond Ring",
+        "description": "Delve into the world of sheer elegance with this beautifully handcrafted ring. Set in pristine sterling silver, its deep red 2-carat garnet takes center stage, capturing attention with every gleam. To enhance its beauty, the garnet is accompanied by delicate diamonds, together weighing 0.20 carats. This exquisite combination showcases both sophistication and timeless charm, making it an ideal piece for any memorable occasion or as a treasured daily adornment.",
         "company": "caressa"
       },
+
 
 ]
 
