@@ -287,7 +287,7 @@ const data = [
       "category": "earrings"
     },
     {
-      "id": "rectfNsySwAJeWDN2",
+      "id": "RjewlMtrnZbLkQVG4",
       "name": "Sterling Silver 2CT Garnet & 0.20CT Diamond Ring",
       "price": 85000,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325645/cassello%20jewelers/Cassello%20Jeweler/DD936C8A-14E8-4AD4-B248-CE4D57F49A66_yrqwu0.jpg",

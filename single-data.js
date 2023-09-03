@@ -3248,7 +3248,7 @@ const data = [
 
 
       {
-        "id": "rectfNsySwAJeWDN2",
+        "id": "RjewlMtrnZbLkQVG4",
         "stock": 5,
         "price": 234999,
         "shipping": true,
@@ -3289,7 +3289,7 @@ const data = [
             "id": "attaeT2Dex98o2jfW",
             "width": 1000,
             "height": 667,
-            "url": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325644/cassello%20jewelers/Cassello%20Jeweler/85921E0E-0DBA-4B23-B479-92CF18BA5E2D_a3zkgq.jpg",
+            "url": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325644/cassello%20jewelers/Cassello%20Jeweler/ADC00B5E-D80E-443A-90A9-DB1ECD757928_daabpc.jpg",
             "filename": "extra-1.jpeg",
             "size": 102108,
             "type": "image/jpeg",
@@ -3315,7 +3315,7 @@ const data = [
             "id": "attWsZasaaRD1P7mm",
             "width": 1000,
             "height": 714,
-            "url": "https://www.course-api.com/images/store/extra-product-2.jpeg",
+            "url": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325644/cassello%20jewelers/Cassello%20Jeweler/85921E0E-0DBA-4B23-B479-92CF18BA5E2D_a3zkgq.jpg",
             "filename": "extra-2.jpeg",
             "size": 84418,
             "type": "image/jpeg",
@@ -3341,7 +3341,7 @@ const data = [
             "id": "attTvaiDcADaAItLw",
             "width": 1000,
             "height": 650,
-            "url": "https://www.course-api.com/images/store/extra-product-3.jpeg",
+            "url": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325644/cassello%20jewelers/Cassello%20Jeweler/5E1C32A8-E954-44C9-8102-21324AF0BD3B_rflv9n.jpg",
             "filename": "extra-3.jpeg",
             "size": 107838,
             "type": "image/jpeg",
