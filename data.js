@@ -170,9 +170,9 @@ const data = [
       "shipping": true
     },
     {
-      "id": "recoW8ecgjtKx2Sj2",
-      "name": "leather chair",
-      "price": 20099,
+      "id": "jAyGEnP6FfOAiBn40",
+      "name": "Cultured Pearls with Yellow Gold Clasp",
+      "price": 'Contact For Price',
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1688753143/AA646309-D6BD-471A-B847-8BE003E94B22_jwxyhs.jpg",
       "colors": [
         "#ff0000",
@@ -180,7 +180,7 @@ const data = [
         "#00ff00"
       ],
       "company": "caressa",
-      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+      "description": "Elevate your jewelry collection with our exquisite Cultured Pearls, seamlessly secured with a lustrous Yellow Gold (YG) clasp. Each pearl radiates timeless beauty, while the YG clasp adds a touch of modern luxury. This harmonious blend of classic pearls and gold elegance ensures this piece is both a daily staple and a statement for special moments.",
       "category": "bracelets"
     },
     {
@@ -237,15 +237,15 @@ const data = [
       "category": "necklaces"
     },
     {
-      "id": "recF0KpwlkF7e8kXO",
-      "name": "simple chair",
-      "price": 109999,
+      "id": "dUsAFVi0ZzIUcHc84",
+      "name": "White & Navy Pearls 18 Necklace with 14K Filigree Clasp",
+      "price": 67500,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1688753139/3140D062-C2A8-4C0D-BBD3-441A7E4C32FB_vkecs5.jpg",
       "colors": [
         "#0000ff"
       ],
       "company": "liddy",
-      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+      "description": "Unveil an era of elegance with our 18-inch necklace, adorned with alternating White and Navy Pearls. Expertly knotted in a blue and white pattern, this piece captures a symphony of deep oceanic hues and pristine elegance. The 14K Filigree Clasp not only ensures secure wear but also adds a touch of intricate artistry. Perfect for those who appreciate the classic allure of pearls combined with exquisite craftsmanship.",
       "category": "bracelets",
       "shipping": true
     },
@@ -290,8 +290,8 @@ const data = [
       "category": "bracelets"
     },
     {
-      "id": "rec3jeKnhInKHJuz2",
-      "name": "vase table",
+      "id": "wNlTYOy3SsBNvAv17",
+      "name": "18k White Gold Stackable Ring with Diamond & Emerald Accents",
       "price": 120999,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325697/cassello%20jewelers/Cassello%20Jeweler/ACC85359-4B12-4093-A277-751ADD8714B7_nrqm0a.jpg",
       "featured": true,
@@ -299,8 +299,8 @@ const data = [
         "#ff0000"
       ],
       "company": "marcos",
-      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
-      "category": "necklaces"
+      "description": "Emanate timeless elegance with our 18k White Gold Stackable Ring, intricately set with a radiant .26 carat Diamond and a lush .34 carat Emerald. This ring perfectly marries the unparalleled brilliance of diamonds with the deep allure of emeralds. Designed for both solitary wear or stacking, it's a versatile addition to any jewelry collection, celebrating sophistication at every glance.",
+      "category": "rings"
     },
     {
       "id": "recv2ohxljlK2FZO7",
