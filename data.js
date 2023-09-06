@@ -55,6 +55,35 @@ const data = [
       "category": "necklaces",
       "shipping": true
     },
+       {
+      "id": "nZeCKEp4JjSEzMk38",
+      "name": "Lotopia Signature Lock",
+      "price": 33500,
+      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325647/cassello%20jewelers/Cassello%20Jeweler/CDF009A3-BAE7-4322-8946-D88523D8D55C_oz3cke.jpg",
+      "colors": [
+        "#000",
+        "#00ff00",
+        "#0000ff"
+      ],
+      "company": "lotopia",
+      "description": "Elevate your security with a touch of elegance with the Lotopia Signature Lock. Crafted with precision and infused with Italian design aesthetics, this lock is more than just a functional tool – it's a statement of style and sophistication. Ideal for safeguarding precious possessions while adding a touch of luxury to your space.",
+      "category": "necklaces",
+      "shipping": true
+    }, {
+      "id": "nZeCKEp4JjSEzMk38",
+      "name": "Manmade Opal Sterling Silver Earrings",
+      "price": 33500,
+      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325683/cassello%20jewelers/Cassello%20Jeweler/D647C139-DDEB-4AD0-AB5B-FCF1BEF049CA_cuanus.jpg",
+      "colors": [
+        "#000",
+        "#00ff00",
+        "#0000ff"
+      ],
+      "company": "lotopia",
+      "description": "Illuminate your look with these Sterling Silver Earrings, adorned with mesmerizing manmade opal. Combining the classic allure of silver with the enchanting hues of opal, these earrings offer a harmonious blend of tradition and contemporary design. Perfect for adding a touch of elegance to any outfit, they're a radiant statement of sophistication.",
+      "category": "earrings",
+      "shipping": true
+    },
     {
       "id": "recotY5Nh00DQFdkm",
       "name": "dining table",
