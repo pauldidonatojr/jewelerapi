@@ -29,16 +29,16 @@ const data = [
     },
     {
       "id": "hTxWEWi8DdMYyGe72",
-      "name": "Fresh Water Pearls Silver Heart",
-      "price": 45000,
-      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1688749973/D7DB699D-7095-407E-AD1E-4CABBBE15F26_rc7qci.jpg",
+      "name": "Fresh Water Pearls Silver Heart Necklace",
+      "price": 0,
+      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1694011952/IMG_0333_ij1jlw.jpg",
       "colors": [
         "#000",
         "#ffb900"
       ],
       "company": "liddy",
-      "description": "Drench yourself in the warmth of these radiant citrine crystal earrings, capturing the essence of sunshine and prosperity in each glint. Hand-selected for their mesmerizing yellow hues, these gemstones shimmer with a brilliance that elevates any outfit. Earrings are available in multiple colors, and metal, gold, sterling silver.",
-      "category": "earrings"
+      "description": "Experience the harmonious blend of nature and artistry with our Silver Heart, intricately adorned with genuine Fresh Water Pearls. This piece captures the pure essence of love symbolized by the heart, while the pearls add a touch of natural elegance and luminescence. Whether worn daily or on special occasions, this piece promises to radiate both sophistication and heartfelt sentiment.",
+      "category": "necklace"
     },
     {
       "id": "rec5NBwZ5zCD9nfF0",
