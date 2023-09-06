@@ -317,9 +317,9 @@ const data = [
   },
     /// new
     {
-      "id": "rectfNsySwAJeWDN2",
-      "name": "wooden table",
-      "price": 3,
+      "id": "tranfXlySwBKeYDO3",
+      "name": "Manmade Opal Shell Necklace",
+      "price": 16000,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325689/cassello%20jewelers/Cassello%20Jeweler/B9D15F87-DACF-47B5-AE78-D1A85B51B449_crzv6h.jpg",
       "featured": true,
       "colors": [
@@ -327,7 +327,7 @@ const data = [
         "#ff0000"
       ],
       "company": "caressa",
-      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+      "description": "Evoke the magic of the sea with our Manmade Opal Shell Necklace. Intricately designed and shimmering with opalescent hues, this necklace is a testament to both nature's beauty and the wonders of modern craftsmanship.",
       "category": "necklaces",
       "shipping": true
   },
