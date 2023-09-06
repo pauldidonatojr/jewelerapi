@@ -24,10 +24,36 @@ const data = [
         "#ffb900"
       ],
       "company": "liddy",
-      "description": "Drench yourself in the warmth of these radiant citrine crystal earrings, capturing the essence of sunshine and prosperity in each glint. Hand-selected for their mesmerizing yellow hues, these gemstones shimmer with a brilliance that elevates any outfit.",
+      "description": "Drench yourself in the warmth of these radiant citrine crystal earrings, capturing the essence of sunshine and prosperity in each glint. Hand-selected for their mesmerizing yellow hues, these gemstones shimmer with a brilliance that elevates any outfit. Earrings are available in multiple colors, and metal, gold, sterling silver.",
       "category": "earrings"
     },
     {
+      "id": "hTxWEWi8DdMYyGe72",
+      "name": "Fresh Water Pearls Silver Heart",
+      "price": 45000,
+      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1688749973/D7DB699D-7095-407E-AD1E-4CABBBE15F26_rc7qci.jpg",
+      "colors": [
+        "#000",
+        "#ffb900"
+      ],
+      "company": "liddy",
+      "description": "Drench yourself in the warmth of these radiant citrine crystal earrings, capturing the essence of sunshine and prosperity in each glint. Hand-selected for their mesmerizing yellow hues, these gemstones shimmer with a brilliance that elevates any outfit. Earrings are available in multiple colors, and metal, gold, sterling silver.",
+      "category": "earrings"
+    },
+    {
+      "id": "rec5NBwZ5zCD9nfF0",
+      "name": "albany table",
+      "price": 309999,
+      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1688749973/C1F392B1-6B4D-4AE2-8C81-5338D9D5ECA4_nkpyux.jpg",
+      "colors": [
+        "#ffb900",
+        "#0000ff"
+      ],
+      "company": "liddy",
+      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+      "category": "rings"
+    },
+       {
       "id": "rec5NBwZ5zCD9nfF0",
       "name": "albany table",
       "price": 309999,
@@ -200,14 +226,14 @@ const data = [
     },
     {
       "id": "rec7CjDWKRgNQtrKe",
-      "name": "shelf",
-      "price": 30999,
+      "name": "Cultured Pearl Necklace Knotted",
+      "price": 'Contact For Price',
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1688753144/779A7EC8-7EC7-4E77-85F9-793599D821DA_bfuyao.jpg",
       "colors": [
         "#00ff00"
       ],
       "company": "ikea",
-      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+      "description": "Indulge in timeless elegance with our Cultured Pearl Necklace, artfully knotted to showcase the pearls' lustrous beauty. Each pearl is a testament to nature's wonder, and the knotted design ensures their individual prominence while adding a touch of vintage charm. Perfect for classic enthusiasts, this necklace is a graceful statement for any occasion.",
       "category": "necklaces"
     },
     {
