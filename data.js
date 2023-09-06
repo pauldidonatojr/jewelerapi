@@ -172,7 +172,7 @@ const data = [
     {
       "id": "jAyGEnP6FfOAiBn40",
       "name": "Cultured Pearls with Yellow Gold Clasp",
-      "price": 'Contact For Price',
+      "price": 0,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1688753143/AA646309-D6BD-471A-B847-8BE003E94B22_jwxyhs.jpg",
       "colors": [
         "#ff0000",
@@ -227,7 +227,7 @@ const data = [
     {
       "id": "rec7CjDWKRgNQtrKe",
       "name": "Cultured Pearl Necklace Knotted",
-      "price": 'Contact For Price',
+      "price": 0,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1688753144/779A7EC8-7EC7-4E77-85F9-793599D821DA_bfuyao.jpg",
       "colors": [
         "#00ff00"
