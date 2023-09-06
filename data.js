@@ -41,7 +41,7 @@ const data = [
       "category": "rings"
     },
     {
-      "id": "recd1jIVIEChmiwhe",
+      "id": "plstGZmtTwCKvFDP4",
       "name": "Lotopia Pendant",
       "price": 33500,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1688749973/7B3F2244-E3E1-4C53-9FC4-61AA39F12F0D_ijahi5.jpg",
@@ -51,7 +51,7 @@ const data = [
         "#0000ff"
       ],
       "company": "lotopia",
-      "description": "Lotopia italian designer swaski crystals",
+      "description": "Discover the allure of the Lotopia Pendant, an embodiment of Italian craftsmanship adorned with genuine Swarovski crystals. Meticulously designed for the modern connoisseur, this piece offers a radiant touch to any ensemble, blending tradition with contemporary elegance.",
       "category": "necklaces",
       "shipping": true
     },
