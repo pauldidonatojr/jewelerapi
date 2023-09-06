@@ -227,13 +227,25 @@ const data = [
     {
       "id": "rec7CjDWKRgNQtrKe",
       "name": "Cultured Pearl Necklace Knotted",
-      "price": 0,
+      "price": 45000,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1688753144/779A7EC8-7EC7-4E77-85F9-793599D821DA_bfuyao.jpg",
       "colors": [
         "#00ff00"
       ],
       "company": "ikea",
       "description": "Indulge in timeless elegance with our Cultured Pearl Necklace, artfully knotted to showcase the pearls' lustrous beauty. Each pearl is a testament to nature's wonder, and the knotted design ensures their individual prominence while adding a touch of vintage charm. Perfect for classic enthusiasts, this necklace is a graceful statement for any occasion.",
+      "category": "necklaces"
+    },
+    {
+      "id": "rec7CjDWKRgNQtrKe",
+      "name": "Japanese Double Strand Cultured Pearl Necklace",
+      "price": 3200000,
+      "image": "",
+      "colors": [
+        "#00ff00"
+      ],
+      "company": "ikea",
+      "description": "Evoke the serenity and elegance of the East with our Japanese Double Strand Cultured Pearl Necklace. Every pearl is meticulously chosen for its luster and symmetry, ensuring a harmonious flow across both strands. This timeless piece captures the rich tradition of Japanese pearl cultivation, reflecting an unmatched brilliance and sophistication. Ideal for those who cherish understated luxury, this necklace stands as a testament to classic beauty and contemporary allure.",
       "category": "necklaces"
     },
     {
@@ -332,12 +344,12 @@ const data = [
       "id": "recJIjREF3dlFi3sR",
       "name": "14K Oval Ruby Wire Basket Setting",
       "price": 368000,
-      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325696/cassello%20jewelers/Cassello%20Jeweler/6AFE87B8-EE27-44D7-B618-CC820EC7A14F_hdeokp.jpg",
+      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325646/cassello%20jewelers/Cassello%20Jeweler/F9CCB2E6-5AD2-48A5-B216-17FC149D0C3D_rhvbzy.jpg",
       "colors": [
         "#000"
       ],
       "company": "ikea",
-      "description": "Discover the enchanting allure of our 14K Wire Basket Setting, meticulously designed to spotlight an exquisite Oval Ruby. The delicate wire basket not only ensures the ruby's prominence but also allows light to play through, maximizing its fiery brilliance. Crafted in premium 14K gold, this setting is a perfect embodiment of timeless elegance and modern design. Whether you're looking to capture the essence of passion with ruby or add a touch of luxury to your collection, this piece stands as a testament to refined taste.",
+      "description": "Discover the enchanting allure of our 14K Wire Basket Setting, meticulously designed to spotlight an exquisite Oval Ruby. The delicate wire basket not only ensures the ruby's prominence but also allows light to play through, maximizing its fiery brilliance. Crafted in premium 14K gold, this setting is a ",
       "category": "rings",
       "shipping": true
     },
