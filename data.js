@@ -240,12 +240,25 @@ const data = [
       "id": "dUsAFVi0ZzIUcHc84",
       "name": "White & Navy Pearls 18 Necklace with 14K Filigree Clasp",
       "price": 67500,
-      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1688753139/3140D062-C2A8-4C0D-BBD3-441A7E4C32FB_vkecs5.jpg",
+      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1694015778/IMG_0238_udoeat.jpg",
       "colors": [
         "#0000ff"
       ],
       "company": "liddy",
       "description": "Unveil an era of elegance with our 18-inch necklace, adorned with alternating White and Navy Pearls. Expertly knotted in a blue and white pattern, this piece captures a symphony of deep oceanic hues and pristine elegance. The 14K Filigree Clasp not only ensures secure wear but also adds a touch of intricate artistry. Perfect for those who appreciate the classic allure of pearls combined with exquisite craftsmanship.",
+      "category": "necklace",
+      "shipping": true
+    },
+    {
+      "id": "dUsAFVi0ZzIUcHc85",
+      "name": "White Pearl Garnet Pearl 14K Clasp Bracelet",
+      "price": 20000,
+      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1688753139/3140D062-C2A8-4C0D-BBD3-441A7E4C32FB_vkecs5.jpg",
+      "colors": [
+        "#0000ff"
+      ],
+      "company": "liddy",
+      "description": "Experience a harmonious blend of luxury and elegance with our White Pearl & Garnet Bracelet. Lustrous white pearls are interspersed with the rich hues of garnet, creating a captivating contrast that elevates any ensemble. Securely fastened with a 14K gold clasp, this bracelet is not only a statement of timeless beauty but also a testament to meticulous craftsmanship. Whether you're dressing up for a special occasion or adding sophistication to your daily wear, this piece promises to be a cherished addition to any jewelry collection.",
       "category": "bracelets",
       "shipping": true
     },
@@ -317,15 +330,15 @@ const data = [
     },
     {
       "id": "recJIjREF3dlFi3sR",
-      "name": "wooden desk",
-      "price": 150999,
+      "name": "14K Oval Ruby Wire Basket Setting",
+      "price": 368000,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325696/cassello%20jewelers/Cassello%20Jeweler/6AFE87B8-EE27-44D7-B618-CC820EC7A14F_hdeokp.jpg",
       "colors": [
         "#000"
       ],
       "company": "ikea",
-      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
-      "category": "earrings",
+      "description": "Discover the enchanting allure of our 14K Wire Basket Setting, meticulously designed to spotlight an exquisite Oval Ruby. The delicate wire basket not only ensures the ruby's prominence but also allows light to play through, maximizing its fiery brilliance. Crafted in premium 14K gold, this setting is a perfect embodiment of timeless elegance and modern design. Whether you're looking to capture the essence of passion with ruby or add a touch of luxury to your collection, this piece stands as a testament to refined taste.",
+      "category": "rings",
       "shipping": true
     },
     {
