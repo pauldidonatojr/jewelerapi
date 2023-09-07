@@ -13,16 +13,46 @@ app.use(cors());
 
 
 
-
+var customerId = '';
 app.post("/api/create-checkout", bodyParser, async (req, res) => {
-    console.log(JSON.stringify(req.body.cartItems))
-    const customer = await stripe.customers.create({
-      metadata: {
-        userId: req.body.userId,
-        cart: JSON.stringify(req.body.cartItems),
-      },
+
+    const get_customer = await stripe.customers.search({
+      query: 'email:\''+req.body.email+'\' ',
     });
-  
+
+    if (get_customer.data && get_customer.data.length > 0) {
+      var customerId = get_customer.data[0].id;
+    }
+    else{
+      const customer = await stripe.customers.create({
+        name:req.body.customer_name,
+        phone:req.body.customer_phone,
+        email:req.body.customer_email,
+        shipping: {
+          address: {
+            city: req.body.shipping.address.city,
+            country: req.body.shipping.address.country,
+            line1: req.body.shipping.address.line1,
+            line2: req.body.shipping.address.line2,
+            postal_code: req.body.shipping.address.postal_code,
+            state: req.body.shipping.address.state
+          },
+          name:req.body.shipping.shipping_name,
+          phone:req.body.shipping.shipping_phone,
+        },
+          address: {
+            city: req.body.billing.address.city,
+            country: req.body.billing.address.country,
+            line1: req.body.billing.address.line1,
+            line2: req.body.billing.address.line2,
+            postal_code: req.body.billing.address.postal_code,
+            state: req.body.billing.address.state
+          },
+      });
+      var customerId = customer.id;
+    }
+    
+
     const line_items = req.body.cartItems.map((item) => {
       return {
         price_data: {
@@ -39,11 +69,11 @@ app.post("/api/create-checkout", bodyParser, async (req, res) => {
         quantity: item.cartQuantity,
       };
     });
-  
+    
     const session = await stripe.checkout.sessions.create({
       payment_method_types: ["card"],
       shipping_address_collection: {
-        allowed_countries: ["US", "CA", "KE"],
+        allowed_countries: ["US"],
       },
       shipping_options: [
         {
@@ -90,17 +120,17 @@ app.post("/api/create-checkout", bodyParser, async (req, res) => {
         },
       ],
       phone_number_collection: {
-        enabled: true,
+        enabled: false,
       },
       line_items,
       mode: "payment",
-      customer: customer.id,
+      customer: customerId,
       success_url: `${process.env.CLIENT_URL}/checkout-success`,
       cancel_url: `${process.env.CLIENT_URL}/cart`,
     });
-  
     // res.redirect(303, session.url);
-    res.send({ url: session.url });
+    
+    res.send(session.url);
   });
 
 app.get('/api/data', (req, res) => {
