@@ -239,7 +239,7 @@ const data = [
     {
       "id": "rec7CjDWKRgNQtrKe",
       "name": "Japanese Double Strand Cultured Pearl Necklace",
-      "price": 3200000,
+      "price": 3201000,
       "image": "",
       "colors": [
         "#00ff00"
