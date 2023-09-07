@@ -23,7 +23,7 @@ const data = [
         "#000",
         "#ffb900"
       ],
-      "company": "liddy",
+      "company": "cassello",
       "description": "Drench yourself in the warmth of these radiant citrine crystal earrings, capturing the essence of sunshine and prosperity in each glint. Hand-selected for their mesmerizing yellow hues, these gemstones shimmer with a brilliance that elevates any outfit. Earrings are available in multiple colors, and metal, gold, sterling silver.",
       "category": "earrings"
     },
