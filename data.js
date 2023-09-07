@@ -25,9 +25,22 @@ const data = [
         "#000",
         "#ffb900"
       ],
-      "company": "liddy",
-      "description": "Drench yourself in the warmth of these radiant citrine crystal earrings, capturing the essence of sunshine and prosperity in each glint. Hand-selected for their mesmerizing yellow hues, these gemstones shimmer with a brilliance that elevates any outfit.",
+      "company": "cassello",
+      "description": "Drench yourself in the warmth of these radiant citrine crystal earrings, capturing the essence of sunshine and prosperity in each glint. Hand-selected for their mesmerizing yellow hues, these gemstones shimmer with a brilliance that elevates any outfit. Earrings are available in multiple colors, and metal, gold, sterling silver.",
       "category": "earrings"
+    },
+    {
+      "id": "hTxWEWi8DdMYyGe72",
+      "name": "Fresh Water Pearls Silver Heart Necklace",
+      "price": 0,
+      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1694011952/IMG_0333_ij1jlw.jpg",
+      "colors": [
+        "#000",
+        "#ffb900"
+      ],
+      "company": "liddy",
+      "description": "Experience the harmonious blend of nature and artistry with our Silver Heart, intricately adorned with genuine Fresh Water Pearls. This piece captures the pure essence of love symbolized by the heart, while the pearls add a touch of natural elegance and luminescence. Whether worn daily or on special occasions, this piece promises to radiate both sophistication and heartfelt sentiment.",
+      "category": "necklace"
     },
     {
       "id": "rec5NBwZ5zCD9nfF0",
@@ -42,8 +55,21 @@ const data = [
       "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
       "category": "rings"
     },
+       {
+      "id": "rec5NBwZ5zCD9nfF0",
+      "name": "albany table",
+      "price": 309999,
+      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1688749973/C1F392B1-6B4D-4AE2-8C81-5338D9D5ECA4_nkpyux.jpg",
+      "colors": [
+        "#ffb900",
+        "#0000ff"
+      ],
+      "company": "liddy",
+      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+      "category": "rings"
+    },
     {
-      "id": "recd1jIVIEChmiwhe",
+      "id": "plstGZmtTwCKvFDP4",
       "name": "Lotopia Pendant",
       "price": 33500,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1688749973/7B3F2244-E3E1-4C53-9FC4-61AA39F12F0D_ijahi5.jpg",
@@ -53,8 +79,37 @@ const data = [
         "#0000ff"
       ],
       "company": "lotopia",
-      "description": "Lotopia italian designer swaski crystals",
+      "description": "Discover the allure of the Lotopia Pendant, an embodiment of Italian craftsmanship adorned with genuine Swarovski crystals. Meticulously designed for the modern connoisseur, this piece offers a radiant touch to any ensemble, blending tradition with contemporary elegance.",
       "category": "necklaces",
+      "shipping": true
+    },
+       {
+      "id": "nZeCKEp4JjSEzMk38",
+      "name": "Lotopia Signature Lock",
+      "price": 33500,
+      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325647/cassello%20jewelers/Cassello%20Jeweler/CDF009A3-BAE7-4322-8946-D88523D8D55C_oz3cke.jpg",
+      "colors": [
+        "#000",
+        "#00ff00",
+        "#0000ff"
+      ],
+      "company": "lotopia",
+      "description": "Elevate your security with a touch of elegance with the Lotopia Signature Lock. Crafted with precision and infused with Italian design aesthetics, this lock is more than just a functional tool – it's a statement of style and sophistication. Ideal for safeguarding precious possessions while adding a touch of luxury to your space.",
+      "category": "necklaces",
+      "shipping": true
+    }, {
+      "id": "nZeCKEp4JjSEzMk38",
+      "name": "Manmade Opal Sterling Silver Earrings",
+      "price": 33500,
+      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325683/cassello%20jewelers/Cassello%20Jeweler/D647C139-DDEB-4AD0-AB5B-FCF1BEF049CA_cuanus.jpg",
+      "colors": [
+        "#000",
+        "#00ff00",
+        "#0000ff"
+      ],
+      "company": "lotopia",
+      "description": "Illuminate your look with these Sterling Silver Earrings, adorned with mesmerizing manmade opal. Combining the classic allure of silver with the enchanting hues of opal, these earrings offer a harmonious blend of tradition and contemporary design. Perfect for adding a touch of elegance to any outfit, they're a radiant statement of sophistication.",
+      "category": "earrings",
       "shipping": true
     },
     {
@@ -117,9 +172,9 @@ const data = [
       "shipping": true
     },
     {
-      "id": "recoW8ecgjtKx2Sj2",
-      "name": "leather chair",
-      "price": 20099,
+      "id": "jAyGEnP6FfOAiBn40",
+      "name": "Cultured Pearls with Yellow Gold Clasp",
+      "price": 0,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1688753143/AA646309-D6BD-471A-B847-8BE003E94B22_jwxyhs.jpg",
       "colors": [
         "#ff0000",
@@ -127,7 +182,7 @@ const data = [
         "#00ff00"
       ],
       "company": "caressa",
-      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+      "description": "Elevate your jewelry collection with our exquisite Cultured Pearls, seamlessly secured with a lustrous Yellow Gold (YG) clasp. Each pearl radiates timeless beauty, while the YG clasp adds a touch of modern luxury. This harmonious blend of classic pearls and gold elegance ensures this piece is both a daily staple and a statement for special moments.",
       "category": "bracelets"
     },
     {
@@ -173,26 +228,51 @@ const data = [
     },
     {
       "id": "rec7CjDWKRgNQtrKe",
-      "name": "shelf",
-      "price": 30999,
+      "name": "Cultured Pearl Necklace Knotted",
+      "price": 45000,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1688753144/779A7EC8-7EC7-4E77-85F9-793599D821DA_bfuyao.jpg",
       "colors": [
         "#00ff00"
       ],
       "company": "ikea",
-      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+      "description": "Indulge in timeless elegance with our Cultured Pearl Necklace, artfully knotted to showcase the pearls' lustrous beauty. Each pearl is a testament to nature's wonder, and the knotted design ensures their individual prominence while adding a touch of vintage charm. Perfect for classic enthusiasts, this necklace is a graceful statement for any occasion.",
       "category": "necklaces"
     },
     {
-      "id": "recF0KpwlkF7e8kXO",
-      "name": "simple chair",
-      "price": 109999,
+      "id": "rec7CjDWKRgNQtrKe",
+      "name": "Japanese Double Strand Cultured Pearl Necklace",
+      "price": 3201000,
+      "image": "",
+      "colors": [
+        "#00ff00"
+      ],
+      "company": "ikea",
+      "description": "Evoke the serenity and elegance of the East with our Japanese Double Strand Cultured Pearl Necklace. Every pearl is meticulously chosen for its luster and symmetry, ensuring a harmonious flow across both strands. This timeless piece captures the rich tradition of Japanese pearl cultivation, reflecting an unmatched brilliance and sophistication. Ideal for those who cherish understated luxury, this necklace stands as a testament to classic beauty and contemporary allure.",
+      "category": "necklaces"
+    },
+    {
+      "id": "dUsAFVi0ZzIUcHc84",
+      "name": "White & Navy Pearls 18 Necklace with 14K Filigree Clasp",
+      "price": 67500,
+      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1694015778/IMG_0238_udoeat.jpg",
+      "colors": [
+        "#0000ff"
+      ],
+      "company": "liddy",
+      "description": "Unveil an era of elegance with our 18-inch necklace, adorned with alternating White and Navy Pearls. Expertly knotted in a blue and white pattern, this piece captures a symphony of deep oceanic hues and pristine elegance. The 14K Filigree Clasp not only ensures secure wear but also adds a touch of intricate artistry. Perfect for those who appreciate the classic allure of pearls combined with exquisite craftsmanship.",
+      "category": "necklace",
+      "shipping": true
+    },
+    {
+      "id": "dUsAFVi0ZzIUcHc85",
+      "name": "White Pearl Garnet Pearl 14K Clasp Bracelet",
+      "price": 20000,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1688753139/3140D062-C2A8-4C0D-BBD3-441A7E4C32FB_vkecs5.jpg",
       "colors": [
         "#0000ff"
       ],
       "company": "liddy",
-      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+      "description": "Experience a harmonious blend of luxury and elegance with our White Pearl & Garnet Bracelet. Lustrous white pearls are interspersed with the rich hues of garnet, creating a captivating contrast that elevates any ensemble. Securely fastened with a 14K gold clasp, this bracelet is not only a statement of timeless beauty but also a testament to meticulous craftsmanship. Whether you're dressing up for a special occasion or adding sophistication to your daily wear, this piece promises to be a cherished addition to any jewelry collection.",
       "category": "bracelets",
       "shipping": true
     },
@@ -237,8 +317,8 @@ const data = [
       "category": "bracelets"
     },
     {
-      "id": "rec3jeKnhInKHJuz2",
-      "name": "vase table",
+      "id": "wNlTYOy3SsBNvAv17",
+      "name": "18k White Gold Stackable Ring with Diamond & Emerald Accents",
       "price": 120999,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325697/cassello%20jewelers/Cassello%20Jeweler/ACC85359-4B12-4093-A277-751ADD8714B7_nrqm0a.jpg",
       "featured": true,
@@ -246,8 +326,8 @@ const data = [
         "#ff0000"
       ],
       "company": "marcos",
-      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
-      "category": "necklaces"
+      "description": "Emanate timeless elegance with our 18k White Gold Stackable Ring, intricately set with a radiant .26 carat Diamond and a lush .34 carat Emerald. This ring perfectly marries the unparalleled brilliance of diamonds with the deep allure of emeralds. Designed for both solitary wear or stacking, it's a versatile addition to any jewelry collection, celebrating sophistication at every glance.",
+      "category": "rings"
     },
     {
       "id": "recv2ohxljlK2FZO7",
@@ -264,15 +344,15 @@ const data = [
     },
     {
       "id": "recJIjREF3dlFi3sR",
-      "name": "wooden desk",
-      "price": 150999,
-      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325696/cassello%20jewelers/Cassello%20Jeweler/6AFE87B8-EE27-44D7-B618-CC820EC7A14F_hdeokp.jpg",
+      "name": "14K Oval Ruby Wire Basket Setting",
+      "price": 368000,
+      "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325646/cassello%20jewelers/Cassello%20Jeweler/F9CCB2E6-5AD2-48A5-B216-17FC149D0C3D_rhvbzy.jpg",
       "colors": [
         "#000"
       ],
       "company": "ikea",
-      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
-      "category": "earrings",
+      "description": "Discover the enchanting allure of our 14K Wire Basket Setting, meticulously designed to spotlight an exquisite Oval Ruby. The delicate wire basket not only ensures the ruby's prominence but also allows light to play through, maximizing its fiery brilliance. Crafted in premium 14K gold, this setting is a ",
+      "category": "rings",
       "shipping": true
     },
     {
@@ -319,9 +399,9 @@ const data = [
   },
     /// new
     {
-      "id": "rectfNsySwAJeWDN2",
-      "name": "wooden table",
-      "price": 3,
+      "id": "tranfXlySwBKeYDO3",
+      "name": "Manmade Opal Shell Necklace",
+      "price": 16000,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1693325689/cassello%20jewelers/Cassello%20Jeweler/B9D15F87-DACF-47B5-AE78-D1A85B51B449_crzv6h.jpg",
       "featured": true,
       "colors": [
@@ -329,7 +409,7 @@ const data = [
         "#ff0000"
       ],
       "company": "caressa",
-      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+      "description": "Evoke the magic of the sea with our Manmade Opal Shell Necklace. Intricately designed and shimmering with opalescent hues, this necklace is a testament to both nature's beauty and the wonders of modern craftsmanship.",
       "category": "necklaces",
       "shipping": true
   },
