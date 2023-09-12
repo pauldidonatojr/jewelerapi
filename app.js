@@ -8,6 +8,7 @@ const stripe = require("stripe")(process.env.STRIPE_SECRET_KEY);
 const data = require('./data');
 const singleData = require('./single-data');
 const auth = require("./routes/auth");
+const product_data = require("./routes/products");
 const app = express();
 
 const port = process.env.PORT;
@@ -16,15 +17,16 @@ const password = process.env.DB_USER_PASS;
 const uri = `mongodb+srv://${username}:${password}@cluster0.dlfbsv3.mongodb.net/?retryWrites=true&w=majority`;
 mongoose
   .connect(uri, { useNewUrlParser: true }, { useUnifiedTopology: true })
-  .then(() => console.log("Monogo with auth service is running"))
+  .then(() => console.log("Monogo service is running"))
   .catch((error) => console.log("Error while connecting to atlas", error));
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
-app.use(express.json());
 app.use(cors());
 
 app.use("/auth", auth);
+
+app.use("/api/data", product_data);
 
 
 var customerId = '';
@@ -146,10 +148,6 @@ app.post("/api/create-checkout", bodyParser, async (req, res) => {
     
     res.send(session.url);
   });
-
-app.get('/api/data', (req, res) => {
-    res.json(data);
-});
 
 app.get('/api/single-data', (req, res) => {
     const { id } = req.query;
