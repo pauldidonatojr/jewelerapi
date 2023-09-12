@@ -1,3 +1,4 @@
+const mongoose = require("mongoose");
 const express = require('express');
 const cors = require("cors");
 bodyParser = require('body-parser').json();
@@ -6,11 +7,24 @@ require("dotenv").config();
 const stripe = require("stripe")(process.env.STRIPE_SECRET_KEY); 
 const data = require('./data');
 const singleData = require('./single-data');
-
+const auth = require("./routes/auth");
 const app = express();
 
+const port = process.env.PORT;
+const username = process.env.DB_USER_NAME;
+const password = process.env.DB_USER_PASS;
+const uri = `mongodb+srv://${username}:${password}@cluster0.dlfbsv3.mongodb.net/?retryWrites=true&w=majority`;
+mongoose
+  .connect(uri, { useNewUrlParser: true }, { useUnifiedTopology: true })
+  .then(() => console.log("Monogo with auth service is running"))
+  .catch((error) => console.log("Error while connecting to atlas", error));
+
+app.use(express.json());
+app.use(express.urlencoded({ extended: false }));
+app.use(express.json());
 app.use(cors());
 
+app.use("/auth", auth);
 
 
 var customerId = '';
