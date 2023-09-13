@@ -2,6 +2,9 @@
   "name": "templateapi",
   "version": "0.0.0",
   "main": "./bin/www",
+  "engines": {
+    "node": "16.x"
+  },
   "scripts": {
     "start": "nodemon ./bin/www"
   },
