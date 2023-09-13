@@ -32,7 +32,7 @@ const data = [
     {
       "id": "hTxWEWi8DdMYyGe72",
       "name": "Fresh Water Pearls Silver Heart Necklace",
-      "price": 0,
+      "price": 1209900,
       "image": "https://res.cloudinary.com/dwyqdiqds/image/upload/v1694011952/IMG_0333_ij1jlw.jpg",
       "colors": [
         "#000",
