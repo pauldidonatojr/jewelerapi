@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "main": "./bin/www",
   "engines": {
-    "node": "16.x"
+    "node": ">=14.20.1"
   },
   "scripts": {
     "start": "nodemon ./bin/www"
