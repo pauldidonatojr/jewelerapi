@@ -31,19 +31,20 @@ app.use("/api/data", product_data);
 
 var customerId = '';
 app.post("/api/create-checkout", bodyParser, async (req, res) => {
-
+  try {
+    console.log('received request')
     const get_customer = await stripe.customers.search({
       query: 'email:\''+req.body.email+'\' ',
     });
 
     if (get_customer.data && get_customer.data.length > 0) {
-      var customerId = get_customer.data[0].id;
+      customerId = get_customer.data[0].id;
     }
     else{
       const customer = await stripe.customers.create({
-        name:req.body.customer_name,
-        phone:req.body.customer_phone,
-        email:req.body.customer_email,
+        name: req.body.customer_name,
+        phone: req.body.customer_phone,
+        email: req.body.customer_email,
         shipping: {
           address: {
             city: req.body.shipping.address.city,
@@ -53,21 +54,20 @@ app.post("/api/create-checkout", bodyParser, async (req, res) => {
             postal_code: req.body.shipping.address.postal_code,
             state: req.body.shipping.address.state
           },
-          name:req.body.shipping.shipping_name,
-          phone:req.body.shipping.shipping_phone,
+          name: req.body.shipping.shipping_name,
+          phone: req.body.shipping.shipping_phone,
         },
-          address: {
-            city: req.body.billing.address.city,
-            country: req.body.billing.address.country,
-            line1: req.body.billing.address.line1,
-            line2: req.body.billing.address.line2,
-            postal_code: req.body.billing.address.postal_code,
-            state: req.body.billing.address.state
-          },
+        address: {
+          city: req.body.billing.address.city,
+          country: req.body.billing.address.country,
+          line1: req.body.billing.address.line1,
+          line2: req.body.billing.address.line2,
+          postal_code: req.body.billing.address.postal_code,
+          state: req.body.billing.address.state
+        },
       });
-      var customerId = customer.id;
+      customerId = customer.id;
     }
-    
 
     const line_items = req.body.cartItems.map((item) => {
       return {
@@ -85,7 +85,7 @@ app.post("/api/create-checkout", bodyParser, async (req, res) => {
         quantity: item.cartQuantity,
       };
     });
-    
+    console.log(customerId)
     const session = await stripe.checkout.sessions.create({
       payment_method_types: ["card"],
       shipping_address_collection: {
@@ -144,10 +144,13 @@ app.post("/api/create-checkout", bodyParser, async (req, res) => {
       success_url: `${process.env.CLIENT_URL}/checkout-success`,
       cancel_url: `${process.env.CLIENT_URL}/cart`,
     });
-    // res.redirect(303, session.url);
     
     res.send(session.url);
-  });
+  } catch (error) {
+    console.error("Error:", error);
+    res.status(500).send("An error occurred");
+  }
+});
 
 app.get('/api/single-data', (req, res) => {
     const { id } = req.query;
